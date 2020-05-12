@@ -3329,21 +3329,21 @@ HAPPY幸福,p2p://51.79.41.139:18912/5c18f8fe000ca53e02ad0e2581da3188.ts
 高兴,rtmp://717616144.r.cdnsun.net/717616144/tv/ttv12
 松视1台,rtmp://717616144.r.cdnsun.net/717616144/tv/ttv11
 nurt,http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
-HAPPY 高清,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
-惊艳台 高清,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
+HAPPY,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+惊艳台,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 彩虹电影,http://prdsecurelive.ainemo.com/live/yx09hitv.flv
-彩虹e台 高清,P2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
-彩虹k台 高清,P2p://51.79.41.138:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
-HOT星颜 高清,P2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
-松视1台 高清,P2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.mu38#mitv://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
-松视2台 高清,P2p://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
-松视3台 高清,P2p://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts
-香蕉台 高清,P2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
-潘多拉粉红 高清,P2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
-潘多拉完美 高清,P2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
-K频道 高清,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
-红粉台 高清,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
-樱花台 高清,p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
+彩虹e台,P2p://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
+彩虹k台,P2p://51.79.41.138:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
+HOT星颜,P2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
+松视1台,P2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.mu38#mitv://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
+松视2台,P2p://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
+松视3台,P2p://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts
+香蕉台,P2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
+潘多拉粉红,P2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
+潘多拉完美,P2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
+K频道,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
+红粉台,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+樱花台,p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
 本道無碼1,p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
 本道無碼2,p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
 本道無碼3,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
@@ -3358,15 +3358,15 @@ HOT星顏,p2p://fccsovh.pvbox.live:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 香蕉台,p2p://fccsovh.pvbox.live:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
 潘多拉粉紅,p2p://fccsovh.pvbox.live:18912/5c18f90c000e8229c074606a15084f35.ts.ts
 潘多拉完美,p2p://fccsovh.pvbox.live:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
-红粉1台(高清),p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
-红粉2台(高清),p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
-拉风台(高清),p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
-潘多拉台(高清),p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
-K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
-青春乐园台(高清),p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
-彩虹台(高清),p8p://0198.02686.cc:16871/5d25b7e700043adb0a2fc9103d0f3e9d.ts
-樱花台(高清),p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
-乐活台(高清),p8p://0198.02686.cc:16871/5d25b7e80003e23d0a2fcce197673935.ts
+红粉1台,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+红粉2台,p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
+拉风台,p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
+潘多拉台,p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
+K频道,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
+青春乐园台,p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
+彩虹台,p8p://0198.02686.cc:16871/5d25b7e700043adb0a2fc9103d0f3e9d.ts
+樱花台,p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
+乐活台,p8p://0198.02686.cc:16871/5d25b7e80003e23d0a2fcce197673935.ts
 2,https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8
 3,https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/chunklist.m3u8
 4,https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
@@ -3379,19 +3379,19 @@ K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 俄罗斯成人8台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
 俄罗斯成人9台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
 俄罗斯成人10台,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-Playboy HD,http://maxptv.net:8080/teresa1/teresa1/88
+Playboy,http://maxptv.net:8080/teresa1/teresa1/88
 Playboy SD,http://maxptv.net:8080/teresa1/teresa1/87
-Sextreme HD,http://maxptv.net:8080/teresa1/teresa1/57
+Sextreme,http://maxptv.net:8080/teresa1/teresa1/57
 Sextreme SD,http://maxptv.net:8080/teresa1/teresa1/56
-Sexy Hot HD,http://maxptv.net:8080/teresa1/teresa1/55
+Sexy Hot,http://maxptv.net:8080/teresa1/teresa1/55
 Sexy Hot SD,http://maxptv.net:8080/teresa1/teresa1/54
-Venus HD,http://maxptv.net:8080/teresa1/teresa1/10
+Venus,http://maxptv.net:8080/teresa1/teresa1/10
 Venus SD,http://maxptv.net:8080/teresa1/teresa1/9
 olala,https://plbl.m9.lfstrm.tv/olala/normal/0/mono.m3u8
 花花公子1,https://plbl.m9.lfstrm.tv/playboy/normal/0/mono.m3u8
 XXX OLALA,http://188.35.9.12:21101/udp/118v
 XXX PLAYBOY,http://188.35.9.12:21101/udp/127h
-XXX PRIVATE HD,http://188.35.9.12:21121/udp/129i
+XXX PRIVATE,http://188.35.9.12:21121/udp/129i
 XXX VIVID RED,http://188.35.9.12:21131/udp/142d
 樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
 一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
@@ -3408,14 +3408,14 @@ HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
 玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
 二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
 松视1台,mitv://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts
-驚豔台 HD,mitv://fccseuro.pvbox.live:18912/5c18f9100006a3e277957d172c265f60.ts
+驚豔台,mitv://fccseuro.pvbox.live:18912/5c18f9100006a3e277957d172c265f60.ts
 潘多拉粉红,mitv://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts
 潘多拉完美,mitv://fccseuro.pvbox.live:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
-香蕉台 HD,mitv://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
+香蕉台,mitv://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
 松视1台,p2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts
-驚豔台 HD,p2p://fccseuro.pvbox.live:18912/5c18f9100006a3e277957d172c265f60.ts
-Pandola HD,p2p://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts#p2p://fccseuro.pvbox.live:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
-香蕉台 HD,p2p://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
+驚豔台,p2p://fccseuro.pvbox.live:18912/5c18f9100006a3e277957d172c265f60.ts
+Pandola,p2p://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts#p2p://fccseuro.pvbox.live:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
+香蕉台,p2p://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
 惊艳台,p2p://51.79.41.139:18912/5c18f9100006a3e216c73f0df5e8c139.ts
 彩虹台,p2p://51.79.41.139:18912/5c18f8ef000d41c9e23ec4ef80f9d5bd.ts
 大人台,p2p://51.79.41.139:18912/5c18f8f300074bdf86631730bdaa190e.ts
@@ -3424,7 +3424,7 @@ Pandola HD,p2p://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts#p
 松视2台,p2p://51.79.41.139:18912/5c18f8f7000d865d5ab52e9a3d98f376.ts
 松视3台,p2p://51.79.41.139:18912/5c18f9020004cea37a4b4bdc9c6422ce.ts
 HOT星颜,p2p://51.79.41.139:18912/5c18f8e80001d0466d12577248a36bf0.ts
-舒活台(高清),p8p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
+舒活台,p8p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
 HAPPY幸福,P2p://190.2.146.112:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 惊艳台,p2p://190.2.146.112:18912/5c18f9100006a3e2c0746e0708a009f7.ts
 彩虹电影,p2p://190.2.146.112:18912/5c18f8eb000ca180c073df055bc26b76.ts
@@ -3437,10 +3437,9 @@ HOT星颜,p2p://190.2.146.112:18912/5c18f8e80001d046c073d07f7ee742c9.ts
 香蕉台,p2p://190.2.146.112:18912/5c18f9090004f8a0c07452412e4e369f.ts
 潘多拉粉红,p2p://190.2.146.112:18912/5c18f90c000e8229c074606a15084f35.ts
 潘多拉完美,p2p://190.2.146.112:18912/5c18f905000c08fbc07444661e2e685e.ts
-Pandola HD,mitv://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts
+Pandola,mitv://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts
 Pandola2HD,mitv://fccseuro.pvbox.live:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
-欢乐台,mitv://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.
-
+欢乐台,mitv://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
 
 其他频道,#genre#
 
